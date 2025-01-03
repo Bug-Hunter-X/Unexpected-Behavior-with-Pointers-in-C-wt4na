@@ -1,0 +1,1 @@
+This repository demonstrates a common C programming error related to pointer arithmetic. The code intends to modify a variable through a pointer. However, it lacks error handling and boundary condition checks, potentially leading to unexpected results or program crashes. The solution provides a more robust version with improved error handling and clearer variable definitions.
